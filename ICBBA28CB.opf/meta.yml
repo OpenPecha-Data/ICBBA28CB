@@ -1,0 +1,48 @@
+id: ICBBA28CB
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:24:34.557135'
+last_modified: '2022-06-17T14:24:34.557151'
+parser: null
+source_metadata:
+  title: Stages of Meditation Series
+  language: pt
+  description: 'Texts that provide practical, step-by-step instructions on how to
+    meditate on certain topics:'
+  volume:
+    f308B:
+      title: 'The Brightly Shining Sun: A Step-by-Step Guide to Meditating on the
+        Bodhicaryāvatāra'
+      base_file: f308B.txt
+      order: 1
+      parent: Bodhicaryāvatāra
+    f7EF8:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      base_file: f7EF8.txt
+      order: 2
+      parent: Bodhicaryāvatāra
+    f3622:
+      title: 'A Casket of Sacred Dharma: Stages of Meditation on Dependent Arising'
+      base_file: f3622.txt
+      order: 3
+      parent: Dependent Origination
+    fADB6:
+      title: A Step-by-Step Meditation on the Definitive Meaning of the Great Middle
+        Way
+      base_file: fADB6.txt
+      order: 4
+      parent: Middle Way
+    fFB04:
+      title: 'Excellent Explanation from the Scriptural Tradition: A Brief Guide to
+        the Stages of Meditating on the General Themes of the Ornament to the Prajñāpāramitā'
+      base_file: fFB04.txt
+      order: 5
+      parent: Prajñāpāramitā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
